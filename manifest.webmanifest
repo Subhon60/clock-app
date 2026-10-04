@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "Часы",
+  "short_name": "Часы",
+  "description": "Часы, будильник, таймер и секундомер",
+  "lang": "ru-RU",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#10151e",
+  "theme_color": "#10151e",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
